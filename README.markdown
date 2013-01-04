@@ -1,6 +1,14 @@
-# B O O M
+# BLAM
 
 ## About
+
+blam manages you text snippets. On the command line.
+
+blam is inspired by, and being ported from, a similar project
+(http://github.com/holman/boom)... updates coming very soon. For now, I
+include Holman's README for ADD purposes.
+
+## OLD README STUFF
 
 boom manages your text snippets. On the command line. I just blew your mind.
 
