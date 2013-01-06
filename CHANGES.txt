@@ -1,1 +1,7 @@
 v0.0.1, 2013-01-04 -- Initial release.
+v0.0.2, 2013-01-06 -- Align with samplemod module layout.
+v0.0.3, 2013-01-06 -- distutils chokes on a README.md vs .txt or .<None>
+v0.0.4, 2013-01-06 -- Instead of symlinks, try MANIFEST.in
+v0.0.5, 2013-01-06 -- Symlink with README as canonical resource.
+v0.0.6, 2013-01-06 -- LICENSE.txt file extension not intended by default
+v0.0.7, 2013-01-06 -- damn you distutils
