@@ -8,6 +8,5 @@ except ImportError:  # for development
     sys.path.insert(0, os.path.abspath('..'))
     import blam
 
-print(dir(blam))
 print('coming oh so very soon...')
 print('oh, and %s!' % blam.hello_world())
